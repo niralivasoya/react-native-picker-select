@@ -434,7 +434,7 @@ const styles = StyleSheet.create({
     },
     underline: {
         borderTopWidth: 1,
-        borderTopColor: '#888988',
+        borderTopColor: '#ddd',
         marginHorizontal: 4,
     },
 });
